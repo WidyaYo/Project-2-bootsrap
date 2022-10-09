@@ -1,0 +1,11 @@
+.section-menu{
+    background-color: thistle;
+}
+.section-menu .navbar-top{
+    background-color: thistle;
+}
+/* pakai section-menu krn hanya utk adjust bag.home */
+section-menu .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 30px;
+    padding-left: 30px;
+}
